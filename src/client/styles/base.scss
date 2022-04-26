@@ -1,0 +1,45 @@
+$bodyCol: rgb(248, 253, 148);
+
+body {
+    display: grid;
+    justify-content: center;
+    height: 100vh;
+    background-color: antiquewhite;
+}
+
+main {
+    display:grid;
+    justify-content: center;
+    text-align: center;
+    margin: 2em;
+    font: 2em "helvetica", sans-serif;
+}
+
+p {
+    margin: 1em;
+}
+
+
+
+section {
+    max-width: 80%;
+    margin: 1em auto;
+}
+
+#resultId {
+
+width: 80vw;
+height: 150px;
+background-color: $bodyCol;
+}
+
+a:link {
+    color: $bodyCol;
+}
+
+a:visited {
+    text-decoration: none;
+    color: rgb(89, 0, 0);
+}
+
+

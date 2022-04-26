@@ -1,0 +1,19 @@
+$keycolor: rgb(253, 148, 192);
+
+header {
+    display: grid;
+    justify-content: center;
+    padding: 10px 40px;
+    background-color: rgb(236, 134, 10);
+    .h1heading {
+        color: red;
+        text-align: center;
+        padding-top:40px ;
+
+    }
+}
+
+h1 {
+    font: 800 2.5em "helvetica", serif;
+}
+
