@@ -24,6 +24,9 @@ Go to the root folder,
 
 7. Open browser at http://localhost:8080/
 
+***For testing
+1. npm test 
+from developer mode
 
 *** Build Tools
 HTML, CSS, Javascript, Node JS, Webpack, Express, Workbox, 
