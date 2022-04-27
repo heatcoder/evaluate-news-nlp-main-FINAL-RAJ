@@ -28,8 +28,6 @@ const apiKey = process.env.API_KEY
 const meaningUrl = 'https://api.meaningcloud.com/sentiment-2.1?'
 console.log(`Your API Key is ${process.env.API_KEY}`);
 
-
-
 app.get('/', function (req, res) {
     res.sendFile('dist/index.html')
 })
